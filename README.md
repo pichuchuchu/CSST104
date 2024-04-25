@@ -4,9 +4,9 @@ CSST104 (Advanced Machine Learning) is a course that delves deeper into the fiel
 
 ### Table of Contents
 
-1. Exercise 1
-2. Exercise 2
-3. Exercise 3
+1. Exercise 1 (Introduction to Data Manipulation and Visualization)
+2. Exercise 2 (Exploratory Data Analysis with a focus on different datasets)
+3. Exercise 3 (In-depth Data Analysis and Visualization of a hardware store dataset)
 4. Simple and Multiple Linear Regression
 5. Logistic Regression
 6. Predicting Feedback on Online Food Orders Using Logistic Regression
